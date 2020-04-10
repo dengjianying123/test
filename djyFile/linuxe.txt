@@ -1,2 +1,0 @@
- linux: cd cd..  ls 
- DOS:dir 
